@@ -5,7 +5,7 @@ Data processing and analysis scripts for cross-tissue immune cell atlas (see our
 ### Contents
 
 
-```src``` contains
+```notebooks``` contains analysis ipython notebooks
 
 
 ### Data access

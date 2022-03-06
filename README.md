@@ -1,4 +1,4 @@
-# Cross-tissue immune cell analysis reveals tissue-specific features in humans
+# Cross-tissue immune cell analysis
 
 Data pre-processing and analysis scripts for the cross-tissue immune cell atlas (see our [preprint](https://www.biorxiv.org/content/10.1101/2021.04.28.441762v2)). Note that the preprint only contains part of the dataset.
 
